@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <rect width="500" height="500" fill="#E9DFD0"/>
+  <rect x="35" y="35" width="430" height="430" rx="12" fill="#D4C8B8" opacity="0.5"/>
+  <circle cx="250" cy="220" r="40" fill="none" stroke="#B96E4D" stroke-width="1.5" opacity="0.4"/>
+  <text x="250" y="320" font-family="system-ui, sans-serif" font-size="12" fill="#38251E" text-anchor="middle" opacity="0.25" letter-spacing="2">DINING SETTING</text>
+</svg>
